@@ -1,4 +1,4 @@
-# DataEngPythonPackt
+# Data Engineering with Python (Packt Lessons)
 
 My demonstration videos on YouTube
 
